@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Local tool settings
+.claude/
+
+# Superseded by notebooks/01_cleaning.ipynb and notebooks/02_analysis.ipynb
+co2_eda.ipynb
